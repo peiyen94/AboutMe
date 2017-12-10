@@ -2,7 +2,7 @@
 
 * Location : 新北市深坑區
 * Education : 東南科技大學 - 資訊科技系(畢業于2017)
-* personal website : https://peiyen94.github.io/CV-2017/
+* Personal website : https://peiyen94.github.io/CV-2017/
 * E-mail : Hito_oh0ho@hotmail.com
 * Mobile : +886 978622140
 
