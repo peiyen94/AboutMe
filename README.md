@@ -8,7 +8,7 @@
 
 ## Career
 
-### Key Realty Private Limited(馬來西亞) - 房地產市場營銷員(In-house Marketing) (2015)
+### Key Realty Private Limited (馬來西亞) - 房地產市場營銷員 (In-house Marketing) (2015)
 
 * 接觸各類型顧客，各部門相互間合作與溝通，各大小事務需極細心處理。
 
@@ -21,18 +21,21 @@
 ### HTML/CSS/RWD/Sass
 
 * HTML 建立網頁架構、CSS 修飾網頁、手刻 RWD 響應式設計。
-* 語義化命名CSS， 統一命名規則與模組化， 方便團體開發與後續維護。
-* 瞭解CSS3 Animate、Transform 跟 Transition等屬性 並能製作CSS動畫效果。
+* 語義化命名 CSS， 統一命名規則與模組化， 方便團體開發與後續維護。
+* 瞭解 CSS3 Animate、Transform 跟 Transition 等屬性 並能製作 CSS 動畫效果。
 * Sass 快速建立變數與管理 CSS。
 
-### JavaScript/jQuery/Vue.js
+### JavaScript/jQuery
 
 * 瞭解 JavaScript 語言基礎，可以擷取使用者行動，進一步做出效果。
 * 會使用 jQuery 框架做動畫效果。
 * 瞭解 JSON、第三方 API 串聯網頁的方式。
 * 使用 AJAX 抓取資料。
-* Vue.js 框架學習中。
 
 ### Git/GitHub
 
 * 能使用 Git 在 GitHub 上進行版本管理。
+
+## Planning
+
+* 學習 Vue.js
